@@ -4,6 +4,7 @@ import {
   belgium,
   brazil,
   bulgaria,
+  canada,
   croatia,
   cyprus,
   czechRepublic,
@@ -33,7 +34,9 @@ import {
   spain,
   sweden,
   switzerland,
-  unitedKingdom
+  unitedEmirates,
+  unitedKingdom,
+  unitedStates
 } from './lib/countries';
 import { Country } from './lib/jsvat';
 
@@ -43,6 +46,7 @@ export const countries: ReadonlyArray<Country> = [
   belgium,
   brazil,
   bulgaria,
+  canada,
   croatia,
   cyprus,
   czechRepublic,
@@ -72,7 +76,9 @@ export const countries: ReadonlyArray<Country> = [
   spain,
   sweden,
   switzerland,
-  unitedKingdom
+  unitedEmirates,
+  unitedKingdom,
+  unitedStates
 ];
 
 export {
@@ -81,6 +87,7 @@ export {
   belgium,
   brazil,
   bulgaria,
+  canada,
   croatia,
   cyprus,
   czechRepublic,
@@ -110,7 +117,9 @@ export {
   spain,
   sweden,
   switzerland,
-  unitedKingdom
+  unitedEmirates,
+  unitedKingdom,
+  unitedStates
 } from './lib/countries';
 
 export { checkVAT, Rules, Country, Multipliers, VatCheckResult } from './lib/jsvat';

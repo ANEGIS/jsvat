@@ -121,6 +121,12 @@ export interface VatCheckResult {
 - Slovakia republic
 - Sweden
 
+## Custom support for:
+
+- Canada
+- United Arab Emirates
+- United States of America
+
 ## How to import all countries at once?
 
 ```javascript

@@ -1,6 +1,6 @@
 {
-  "name": "jsvat",
-  "version": "2.5.4",
+  "name": "anegis-jsvat",
+  "version": "2.5.4-ANEGIS-0.1",
   "description": "Check the validity of the format of an EU VAT number",
   "main": "./lib/commonjs/index.js",
   "module": "./lib/es6/index.js",
@@ -22,10 +22,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/se-panfilov/jsvat.git"
+    "url": "git://github.com/anegis/jsvat.git"
   },
   "bugs": {
-    "url": "https://github.com/se-panfilov/jsvat/issues"
+    "url": "https://github.com/anegis/jsvat/issues"
   },
   "homepage": "https://se-panfilov.github.io/jsvat/",
   "keywords": [
@@ -49,7 +49,8 @@
   "ignore": {},
   "author": "S.Panfilov <se-panfilov@ya.ru> (https://se-panfilov.github.io)",
   "contributors": [
-    "Wilgert Velinga <wilgert@wilgert.nl> (http://wilgert.nl)"
+    "Wilgert Velinga <wilgert@wilgert.nl> (http://wilgert.nl)",
+    "Dariusz Sułtanowski <sultanowski.d@gmail.com> (https://github.com/sultanowski)"
   ],
   "private": false,
   "dependencies": {},
